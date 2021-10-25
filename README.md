@@ -1,6 +1,6 @@
 # toxic-comment-challenge
 
-This academic project is based on kaggle [toxic comment clssification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). It was co-developed with github.com/emmaamblard and github.com/cdurand95.
+This academic project is based on kaggle [toxic comment clssification challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge). It was co-developed with [Emma Amblard](github.com/emmaamblard) and [Charlotte Durand](github.com/cdurand95).
 
 ## Running the example scripts
 * train.py : training and saving of the two classifiers
